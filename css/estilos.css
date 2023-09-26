@@ -16,6 +16,9 @@ header {
     background-color: #000000; /* Violeta */
     padding: 10px 0;
 }
+nav{
+    background-color: #000000;
+}
 
 nav ul {
     list-style: none;
@@ -69,11 +72,4 @@ footer {
 .navbar-logo {
     width: 200px; /* Modifica el ancho según tus preferencias */
     height: auto; /* La altura se ajustará automáticamente para mantener la proporción original */
-}
-.navbar-bg {
-    background-image: url('/img/fondo-dos.jpg'); /* Reemplaza 'ruta-de-la-imagen.jpg' con la ruta de tu imagen */
-    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-position: center center; /* Centra la imagen horizontal y verticalmente */
-    /* Puedes agregar otros estilos, como altura, relleno, etc., según tus necesidades */
 }
